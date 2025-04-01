@@ -77,12 +77,3 @@ Open **[http://localhost:5173](http://localhost:5173)** in your browser to view 
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 💡 Contributing
-Contributions are welcome! Feel free to submit a pull request or open an issue.
-
----
-
-Happy coding! 🎉
